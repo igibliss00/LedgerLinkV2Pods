@@ -1,0 +1,6 @@
+framework module Pods_LedgerLinkV2Tests {
+  umbrella header "Pods-LedgerLinkV2Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
